@@ -19,7 +19,6 @@ A pragmatic software engineer with ~3+ years building and scaling backend-heavy 
 - 🔭 I’m currently working at **Sprints** on performance, DB design, and platform features.
 - 🌱 I’m currently learning **Go** and deeper **AWS** services.
 - 💬 Ask me about **Laravel, Node.js, SQL performance, REST APIs, Docker, AWS**.
-- 📫 How to reach me: **eslammohamed7333@gmail.com**
 - 🌍 Portfolio/Repos: **github.com/eslam733**
 
 ---
