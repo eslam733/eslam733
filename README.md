@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eslam Mohamed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%94+Backend+%26+Full-Stack;Laravel+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+AWS;4%2B+years+across+EdTech%2C+Healthcare+%26+IoT" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%E2%80%94+Backend+%26+Cloud;Building+scalable%2C+AI-powered+platforms;Laravel+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+AWS" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -15,14 +15,15 @@
 
 ### 🚀 About me
 
-Software Engineer with **4+ years** building scalable web, mobile and cloud applications across **EdTech, Healthcare, IoT and digital solutions**. I care about clean architecture, measurable performance and shipping things people actually use.
+I build backend systems that stay fast at scale. As a **Senior Software Engineer at [Sprints](https://sprints.ai/)**, I lead development on a learning platform used by thousands of learners. **4+ years** across EdTech, Healthcare and IoT.
 
-- 🔭 Currently at **[Sprints](https://sprints.ai/)**: leading LMS development, AI-assisted grading, payments and performance work
-- ⚡ Delivered **×3 performance gains** by redesigning schemas and queries for high-traffic usage
-- 🤖 Built **AI-assisted grading** for code, PDFs, videos and images with rubric-aligned feedback
-- 📱 Shipped **mobile apps to the App Store & Google Play** (healthcare, IoT, Qur'an reader)
-- 🌱 Currently going deeper into **Go** and **AWS**
-- 💬 Ask me about **Laravel, FastAPI, Node.js, SQL performance, Docker, AWS**
+- ⚡ Made the Sprints platform **3× faster** through database and query optimization, with lower infrastructure costs
+- 🤖 Built **AI-assisted assignment grading** that tripled grading throughput
+- 🏛️ Built **[ITIDA Gigs](https://sprints.ai/en-eg/itida-gigs)**, the application and onboarding platform for ITIDA's national freelancing program
+- 🎙️ Open source: **[VoiceTut Kaggle](https://github.com/eslam733/voicetut-kaggle)**, an AI voice recording pipeline (TTS + ASR) on Kaggle's free GPUs
+- 📱 Shipped mobile apps to the **App Store & Google Play** (healthcare, IoT, Qur'an reader)
+- 🎯 Looking for **senior backend or platform roles**, especially on AI-powered products
+- 💼 My work account: **[@eslam-sprints](https://github.com/eslam-sprints)**
 
 ### 🛠️ Tech stack
 
@@ -34,15 +35,16 @@ Software Engineer with **4+ years** building scalable web, mobile and cloud appl
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Portfolio**](https://eslam-portfolio-ten.vercel.app) | My personal site, auto-deployed to Vercel on every push | React · Vite · GitHub Actions |
+| [**ITIDA Gigs**](https://sprints.ai/en-eg/itida-gigs) | Application and onboarding platform for ITIDA's national freelancing program: eligibility checks, Coderbyte assessments, AI OCR ID verification, automatic seats in training rounds | Laravel · MySQL · AI OCR |
+| [**Sprints LMS**](https://sprints.ai/) | Learning & talent platform: assessments, learning journeys, AI-assisted grading, payments and certificates | Laravel · MySQL · Redis · OpenAI |
+| [**VoiceTut Kaggle**](https://github.com/eslam733/voicetut-kaggle) | Clones voices and records Egyptian Arabic lines on Kaggle GPUs, checks every clip with speech recognition | Python · TTS / ASR · Tauri |
+| [**Portfolio**](https://github.com/eslam-sprints/portfolio) | My personal site ([live](https://eslam-portfolio-ten.vercel.app)), auto-deployed to Vercel on every push | React · Vite · GitHub Actions |
 | [**High-Availability Web App**](https://github.com/eslam733/EgFwd-project2-aws-high-availability-) | Full CloudFormation stack: networking, compute and security as code | AWS · CloudFormation |
 | [**Auto-Deploy Superpowers**](https://github.com/eslam733/Give-Your-Application-Auto-Deploy-Superpowers) | CI/CD pipelines with deployment strategies and structured logging | CI/CD · AWS |
-| [**Reservations with Docker**](https://github.com/eslam733/point-of-sales) | Containerized app with multi-stage builds and Compose | Docker |
-| [**Home Impulse**](https://apps.apple.com/eg/app/impulses/id1667483597) | Smart-home app controlling IoT devices in real time | Flutter · IoT |
 | [**Qur'an App**](https://apps.apple.com/eg/app/id1594654239) | Fully offline Mushaf reader with reminders, bookmarks and search | Flutter |
 
 ### 📫 Let's connect
 
-I'm open to new opportunities. The fastest way to reach me is **[email](mailto:eslammohamed7333@gmail.com)**, or check out my **[portfolio](https://eslam-portfolio-ten.vercel.app)**.
+Email me at **[eslammohamed7333@gmail.com](mailto:eslammohamed7333@gmail.com)**, or see my projects and CV on my **[portfolio](https://eslam-portfolio-ten.vercel.app)**.
 
 <p align="center"><sub>📍 Cairo, Egypt</sub></p>
