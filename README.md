@@ -20,7 +20,8 @@ I build backend systems that stay fast at scale. As a **Senior Software Engineer
 - ⚡ Made the Sprints platform **3× faster** through database and query optimization, with lower infrastructure costs
 - 🤖 Built **AI-assisted assignment grading** that tripled grading throughput
 - 🏛️ Built **[ITIDA Gigs](https://sprints.ai/en-eg/itida-gigs)**, the application and onboarding platform for ITIDA's national freelancing program
-- 🎙️ Open source: **[VoiceTut Kaggle](https://github.com/eslam733/voicetut-kaggle)**, an AI voice recording pipeline (TTS + ASR) on Kaggle's free GPUs
+- 🧩 Side project: **يلا نفكّر (Yalla Nfakkar)**, an Arabic thinking-games app for kids aged 4–12 (Flutter, in development)
+- 🎙️ Open source: **[VoiceTut Studio](https://github.com/eslam733/voicetut-studio)**, an AI voice recording pipeline (TTS + ASR) on Kaggle's free GPUs or ElevenLabs
 - 📱 Shipped mobile apps to the **App Store & Google Play** (healthcare, IoT, Qur'an reader)
 - 🎯 Looking for **senior backend or platform roles**, especially on AI-powered products
 - 💼 My work account: **[@eslam-sprints](https://github.com/eslam-sprints)**
@@ -37,7 +38,8 @@ I build backend systems that stay fast at scale. As a **Senior Software Engineer
 | --- | --- | --- |
 | [**ITIDA Gigs**](https://sprints.ai/en-eg/itida-gigs) | Application and onboarding platform for ITIDA's national freelancing program: eligibility checks, Coderbyte assessments, AI OCR ID verification, automatic seats in training rounds | Laravel · MySQL · AI OCR |
 | [**Sprints LMS**](https://sprints.ai/) | Learning & talent platform: assessments, learning journeys, AI-assisted grading, payments and certificates | Laravel · MySQL · Redis · OpenAI |
-| [**VoiceTut Kaggle**](https://github.com/eslam733/voicetut-kaggle) | Clones voices and records Egyptian Arabic lines on Kaggle GPUs, checks every clip with speech recognition | Python · TTS / ASR · Tauri |
+| **يلا نفكّر (Yalla Nfakkar)** | Kids solve a mystery by playing thinking games: puzzles generated on the fly and always fair, adaptive difficulty, and Egyptian Arabic voices for 8 characters (in development) | Flutter · Dart · TTS |
+| [**VoiceTut Studio**](https://github.com/eslam733/voicetut-studio) | Clones voices and records Egyptian Arabic lines on Kaggle's free GPUs or ElevenLabs, checks every clip with speech recognition | Python · TTS / ASR · Tauri |
 | [**Portfolio**](https://github.com/eslam-sprints/portfolio) | My personal site ([live](https://eslam-portfolio-ten.vercel.app)), auto-deployed to Vercel on every push | React · Vite · GitHub Actions |
 | [**High-Availability Web App**](https://github.com/eslam733/EgFwd-project2-aws-high-availability-) | Full CloudFormation stack: networking, compute and security as code | AWS · CloudFormation |
 | [**Auto-Deploy Superpowers**](https://github.com/eslam733/Give-Your-Application-Auto-Deploy-Superpowers) | CI/CD pipelines with deployment strategies and structured logging | CI/CD · AWS |
